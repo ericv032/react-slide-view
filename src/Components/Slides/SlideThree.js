@@ -7,7 +7,7 @@ class SlideThree extends Component {
         return(
             <div>
                 <figure>
-                <img src={require('../../../public/images/view-3-icon.png')} />
+                <img src={require('../../../public/images/view-3-icon.svg')} />
                 </figure>
                 <div className="slides-content">
                 <h3>Lorem ipsum.</h3>

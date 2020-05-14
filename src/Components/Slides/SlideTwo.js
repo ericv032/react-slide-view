@@ -5,7 +5,7 @@ class SlideTwo extends Component {
         return(
             <div>
                 <figure>
-                <img src={require('../../../public/images/view-2-icon.png')} />
+                <img src={require('../../../public/images/view-2-icon.svg')} />
                 </figure>
                 <div className="slides-content">
                 <h3>Lorem ipsum.</h3>
