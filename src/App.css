@@ -25,6 +25,7 @@ header {
     color: #384BF2;
 }
 .skip-link {
+    display: none;
     margin-top: 60px;
     color: #384BF2;
     font-weight: 600;
