@@ -1,0 +1,31 @@
+.app-wrapper {
+    max-width: 375px;
+    margin: 0 auto;
+    text-align: center;
+}
+figure {
+    margin:0;
+    padding:0;
+}
+header {
+    padding: 50px 0
+}
+.imageWrapper {
+    margin: 60px 0 50px 0;
+}
+.slides-container {
+    margin:0 auto;
+    text-align: center;
+}
+.slides-content {
+    margin: 50px 0 40px 0;
+}
+.slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: #384BF2;
+}
+.skip-link {
+    margin-top: 60px;
+    color: #384BF2;
+    font-weight: 600;
+}
